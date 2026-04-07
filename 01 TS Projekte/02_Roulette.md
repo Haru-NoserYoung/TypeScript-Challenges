@@ -6,7 +6,7 @@ bekannt ist, soll berechnet werden, ob und wenn ja wie viel der Spieler in diese
 Resultat dem User angezeigt und er kann eine weitere Runde am Roulette Tisch gamblen. Im unten verlinkten Video siehst 
 du ein mögliches Beispiel.
 
-⏳ 9 Tage
+⏳ 3 Tage
 
 [![Beispiel](../02%20Ressourcen/02%20Roulette/cover.jpg)](../02%20Ressourcen/02%20Roulette/beispiel.mov)
 

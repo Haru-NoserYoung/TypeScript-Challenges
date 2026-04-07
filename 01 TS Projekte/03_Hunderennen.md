@@ -1,7 +1,7 @@
 # 🐕 Projekt Hunderennen
-In diesem Projekt kannst du eine Hunderennbahn gestalten (du darfst auch andere Tiere nehmen 😸). Es soll 5 Rennbahnen geben und die Möglichkeit auf den gewinner zu setzen. Anschliessend soll ein Modal aufgehen wo dir sagt ob du gewonnen oder verloren hast. Wie du das Rennen gestaltest ist dir überlassen, im folgenden Gif siehst du wie das Ganze mindestens aussehen sollte. 
+In diesem Projekt kannst du eine Hunderennbahn gestalten (es müssen nicht Hunde sein 😸). Es soll 5 Rennbahnen geben und die Möglichkeit auf den gewinner zu setzen. Anschliessend soll ein Modal aufgehen wo dir sagt ob du gewonnen oder verloren hast. Wie du das Rennen gestaltest ist dir überlassen, im folgenden Gif siehst du wie das Ganze mindestens aussehen sollte. 
 
-⏳ 9 Tage
+⏳ 3 Tage
 
 [![Beispiel](../02%20Ressourcen/03%20Hunderennen/cover.jpg)](../02%20Ressourcen/03%20Hunderennen/beispiel.mp4)
 

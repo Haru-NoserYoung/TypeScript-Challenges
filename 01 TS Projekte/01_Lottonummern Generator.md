@@ -1,7 +1,7 @@
 # 🎰 Lottonummern Generator
 In diesem Projekt kannst du deinen eigenen Lottonummern Generator erstellen. Der Generator soll Zahlen für einen Lottoschein generieren können. Du darfst selber wählen für welchen Lottoschein du die Zahlen generieren willst, wir haben im Beispiel mit Swiss Lotto und EuroMillions gearbeitet. Dieses Projekt wird wahrscheinlich etwas mehr CSS Aufwand geben, da das Ganze auch Mobile funktionieren soll.
 
-⏳ 9 Tage
+⏳ 3 Tage
 
 [![Beispiel](../02%20Ressourcen/01%20Lottonummern%20Generator/cover.jpg)](../02%20Ressourcen/01%20Lottonummern%20Generator/beispiel.mp4)
 
