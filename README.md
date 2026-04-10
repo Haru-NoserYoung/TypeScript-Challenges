@@ -1,5 +1,5 @@
 # htmlcssjs_challenge
-Im Ordner 01 JS Projekte sind 3 mögliche Projekte zur auswahl. Du kannst dir ein Projekt auswählen und dies anschliessend umsetzen.
+Im Ordner 01 TS Projekte sind 3 mögliche Projekte zur auswahl. Du kannst dir ein Projekt auswählen und dies anschliessend umsetzen.
 
 Versucht die Nutzung von AI auf ein Minimum zu reduzieren und geht Schrittweise voran mit der Entwicklung:
 
